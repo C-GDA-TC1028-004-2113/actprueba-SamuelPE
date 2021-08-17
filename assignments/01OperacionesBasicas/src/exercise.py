@@ -6,13 +6,6 @@ def main():
     print("Suma:", num1 + num2)
     print("Resta:", num1 - num2)
     print("Multiplicación:", num1 * num2)
-    print("Multiplicación:", num1 * num2)
-    print("Multiplicación:", num1 * num2)
-    print("Multiplicación:", num1 * num2)
-    print("Multiplicación:", num1 * num2)
-    print("Multiplicación:", num1 * num2)
-
-
 
 if __name__ == '__main__':
     main()
